@@ -1,0 +1,7 @@
+{
+  "name": "smf/dummy-package",
+  "description": "this package only use smf namespace",
+  "require": {
+    "php": ">=7.4"
+  }
+}
